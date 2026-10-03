@@ -7,8 +7,7 @@ export default function Hero() {
         <h1>Rinax Antonio</h1>
         <p className="role">IT student, indie game developer, web developer</p>
         <p className="bio">
-          I'm an IT student at La Salle University in Ozamiz City. I make games solo under
-          Rinexus Games and build websites for clients. I've taught GDevelop workshops, shown
+          I'm an IT student at La Salle University in Ozamiz City. I make games solo under <a href="https://www.rinexusgames.com" target="_blank" rel="noopener noreferrer">Rinexus Games</a> and build websites for clients. I've taught GDevelop workshops, shown
           games at expos, and had one featured on the GDevelop blog.
         </p>
         <div className="actions">
