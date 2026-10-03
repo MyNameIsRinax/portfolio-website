@@ -45,6 +45,6 @@ export const projects = [
     tags: ["Unity", "Arduino", "Game design", "Hardware"],
     color: "#AB2525",
     image: "projects/taginting.png",
-    link: "https://github.com/mynameisrinax",
+    link: "https://docs.google.com/document/d/1Oe3heoafMKDRprp3OWDXp5M0cZUjG3vGXu7xIZpKxYg/edit?usp=sharing",
   },
 ];
